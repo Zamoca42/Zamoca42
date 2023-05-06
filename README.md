@@ -11,4 +11,5 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
 	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
 	<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white">
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </p>
