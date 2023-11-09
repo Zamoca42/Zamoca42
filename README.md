@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7fbcd2&section=header&text=Chu%20Yeon%20Kyu&fontColor=e1ffee&height=200)
 
-**"JavaScript의 프로토타입기반 객체지향 언어를 좋아합니다."**  
+**"JavaScript의 프로토타입기반 객체지향 언어를 좋아합니다."**
 
 **"TypeScript을 활용해서 효율적이고 생산적인 개발 방법에 대해 고민하고 있습니다."**
 <br/>
@@ -10,32 +10,31 @@
 | :envelope: **Contacts** | [![Gmail][Gmail]][Gmail-mail-link] [![Naver Mail][Naver]][Naver-mail-link] |
 
 <details>
-	
 <summary><b>🛠️ Technologies & Tools</b></summary>
 
 <br/>
 
 
-|                                                                                     Main                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![NestJS][NestJS] ![NodeJS][NodeJS] ![TypeScript][TypeScript] ![JavaScript][JavaScript] ![Postgres][Postgres] ![Git][Git] ![Docker][Docker] ![Docker Compose][Docker-Compose] |
-|                                                                                **Experienced**                                                                                |
-|                                               ![Python][Python] ![Django][Django] ![Vue.js][Vue.js] ![React][React] ![AWS][AWS]                                               |
-|                                                                               **Explore & Use**                                                                               |
-|                                                       ![C][C] ![DynamoDB][DynamoDB] ![MongoDB][MongoDB] ![Redis][Redis]                                                       |
-|                                                                                   **Tools**                                                                                   |
-|                                      ![VS Code][VS-Code] ![Markdown][Markdown] ![Obsidian][Obsidian] ![Colab][Colab] ![ChatGPT][ChatGPT]                                      |
+|                                                                                          Main                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                     ![NestJS][NestJS] ![NodeJS][NodeJS] ![TypeScript][TypeScript] ![JavaScript][JavaScript] ![Postgres][Postgres] ![GitHub-Actions][GitHub-Actions]                                      |
+|                                                                                    **Experienced**                                                                                     |
+|                                                   ![Python][Python] ![Django][Django] ![Vue.js][Vue.js] ![React][React] ![AWS][AWS]                                                    |
+|                                                                                   **Explore & Use**                                                                                    |
+|                                                           ![C][C] ![DynamoDB][DynamoDB] ![MongoDB][MongoDB] ![Redis][Redis]                                                            |
+|                                                                                       **Tools**                                                                                        |
+| ![VS Code][VS-Code] ![Markdown][Markdown] ![Obsidian][Obsidian] ![Colab][Colab] ![ChatGPT][ChatGPT] ![Git][Git] ![Docker][Docker] ![Docker Compose][Docker-Compose] ![Swagger][Swagger] |
 
 </details>
 
 <details>
-	
+
 <summary><b>:bar_chart: GitHub Stats</b></summary>
 
 <br/>
-	
+
 [![Zamoca's GitHub Stats][GitHub-Stats]][GitHub-url]
-	
+
 [![Hits][Hits]][Hits-url]
 
 </details>
@@ -75,11 +74,13 @@
 [Obsidian]: https://img.shields.io/badge/Obsidian-%23483699?style=for-the-badge&logo=obsidian&logoColor=white
 [Colab]: https://img.shields.io/badge/Colab-%23F46800?style=for-the-badge&logo=googlecolab&logoColor=white
 [ChatGPT]: https://img.shields.io/badge/ChatGPT-%23000000?style=for-the-badge&logo=openai&logoColor=white
+[Swagger]: https://img.shields.io/badge/Swagger-%85EA2D?style=for-the-badge&logo=swagger&logoColor=white
+[GitHub-Actions]: https://img.shields.io/badge/GitHub%20Actions-%23000000?style=for-the-badge&logo=githubactions&logoColor=white
 
 <!--URL-LINK-->
 
 [Hits-url]: https://hits.seeyoufarm.com
 [GitHub-url]: https://github.com/Zamoca42
 [Blog-url]: https://zamoca42.github.io/blog
-[Gmail-mail-link]: mailto:suntail93@gmail.com
-[Naver-mail-link]: mailto:suntail2002@naver.com
+[Gmail-mail-link]: suntail93@gmail.com
+[Naver-mail-link]: suntail2002@naver.com
