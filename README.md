@@ -3,6 +3,7 @@
 **"JavaScript의 프로토타입기반 객체지향 언어를 좋아합니다."**  
 
 **"TypeScript을 활용해서 효율적이고 생산적인 개발 방법에 대해 고민하고 있습니다."**
+<br/>
 
 | :pencil: **Tech Blog**  | [![Blog][Blog]][Blog-url]                                                  |
 | :---------------------- | :------------------------------------------------------------------------- |
@@ -11,6 +12,8 @@
 <details>
 	
 <summary><b>🛠️ Technologies & Tools</b></summary>
+
+<br/>
 
 |                                                                                     Main                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -28,17 +31,11 @@
 	
 <summary><b>:bar_chart: GitHub Stats</b></summary>
 
-<p align="center">
-
+<br/>
+	
 [![Zamoca's GitHub Stats][GitHub-Stats]][GitHub-url]
-
-</p>
-
-<p align="center">
-
+	
 [![Hits][Hits]][Hits-url]
-
-</p>
 
 </details>
 
