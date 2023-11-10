@@ -82,5 +82,5 @@
 [Hits-url]: https://hits.seeyoufarm.com
 [GitHub-url]: https://github.com/Zamoca42
 [Blog-url]: https://zamoca42.github.io/blog
-[Gmail-mail-link]: suntail93@gmail.com
-[Naver-mail-link]: suntail2002@naver.com
+[Gmail-mail-link]: mailto:suntail93@gmail.com
+[Naver-mail-link]: mailto:suntail2002@naver.com
