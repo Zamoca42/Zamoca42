@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7fbcd2&section=header&text=Chu%20Yeon%20Kyu&fontColor=e1ffee&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=90ccaa&section=header&text=Chu%20Yeon%20Kyu&fontColor=ffffff&height=200)
 
 **"JavaScript의 프로토타입기반 객체지향 언어를 좋아합니다."**
 
