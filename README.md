@@ -2,7 +2,7 @@
 
 **"JavaScript의 프로토타입기반 객체지향 언어를 좋아합니다."**
 
-**"TypeScript을 활용해서 효율적이고 생산적인 개발 방법에 대해 고민하고 있습니다."**
+**"NestJS & TypeScript를 활용해서 가독성있고 효율적인 개발 방법에 대해 고민하고 있습니다."**
 <br/>
 
 | :pencil: **Tech Blog**  | [![Blog][Blog]][Blog-url]                                                  |
