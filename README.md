@@ -16,7 +16,7 @@
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                               ![TypeScript][TypeScript] ![JavaScript][JavaScript] ![Next.js][NextJS] ![Vercel][Vercel] ![NestJS][NestJS]                                |
 |                                                                             **Experienced**                                                                             |
-|                                  ![React][React] ![Postgres][Postgres] ![AWS][AWS] ![Mysql][MySQL] ![sqlite][SQLite] ![Prisma][Prisma]                                  |
+|                        ![React][React] ![Postgres][Postgres] ![AWS][AWS] ![Mysql][MySQL] ![sqlite][SQLite] ![Prisma][Prisma] ![TypeORM][TypeORM]                        |
 |                                                                            **Explore & Use**                                                                            |
 |                                                      ![C][C] ![Django][Django] ![Vue.js][Vue.js] ![Python][Python]                                                      |
 |                                                                                **Tools**                                                                                |
@@ -69,6 +69,7 @@
 [MySQL]: https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white
 [SQLite]: https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white
 [GraphQL]: https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql&logoColor=white
+[TypeORM]: https://img.shields.io/badge/typeorm-%23E0234E?style=for-the-badge&logo=typeorm&logoColor=white
 
 <!--URL-LINK-->
 
