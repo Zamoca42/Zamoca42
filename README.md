@@ -1,17 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=7fbcd2&section=header&text=Chu%20Yeon%20Kyu&fontColor=e1ffee&height=200)
-
-<br/>
-
-| :pencil: **Tech Blog**  | [![Blog][Blog]][Blog-url]                                                  |
-| :---------------------- | :------------------------------------------------------------------------- |
-| :envelope: **Contacts** | [![Gmail][Gmail]][Gmail-mail-link] [![Naver Mail][Naver]][Naver-mail-link] |
-
-<details>
-<summary><b>🛠️ Technologies & Tools</b></summary>
-
-<br/>
-
 |                                                                                  Main                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                               ![TypeScript][TypeScript] ![JavaScript][JavaScript] ![Next.js][NextJS] ![Vercel][Vercel] ![NestJS][NestJS]                                |
@@ -22,27 +8,9 @@
 |                                                                                **Tools**                                                                                |
 | ![VS Code][VS-Code] ![Markdown][Markdown] ![Obsidian][Obsidian] ![Git][Git] ![Docker][Docker] ![Swagger][Swagger] ![GitHub-Actions][GitHub-Actions] ![Graphql][GraphQL] |
 
-</details>
-
-<details>
-
-<summary><b>📊 GitHub Stats</b></summary>
-
-<br/>
-
-[![Zamoca's GitHub Stats][GitHub-Stats]][GitHub-url]
-
-</details>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-<!--Stats-->
-
-[Blog]: https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=nextdotjs&logoColor=white
-[GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=zamoca42
-[Gmail]: https://img.shields.io/badge/gmail-%2314354c.svg?style=for-the-badge&logo=gmail&logoColor=red
-[Naver]: https://img.shields.io/badge/naver-03C75A.svg?style=for-the-badge&logoColor=white
 
 <!--TECH-SHIELD-->
 
