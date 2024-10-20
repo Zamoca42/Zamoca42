@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Zamoca42! 👋</h1>
+
+<p align="center">
+  The items pinned are the ones I am currently interested in. <br>
+  👇
+</p>
 
 <!--
 **Zamoca42/Zamoca42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
